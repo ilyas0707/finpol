@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61af3adb.chunk.css",
+    "main.js": "/static/js/main.2d4400f9.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "static/css/2.98167188.chunk.css": "/static/css/2.98167188.chunk.css",
+    "static/js/2.b5a8db14.chunk.js": "/static/js/2.b5a8db14.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.7e13a1ab0d301385ac2599cb5041173e.js": "/precache-manifest.7e13a1ab0d301385ac2599cb5041173e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.b5a8db14.chunk.js.LICENSE.txt": "/static/js/2.b5a8db14.chunk.js.LICENSE.txt",
+    "static/media/Number.module.css": "/static/media/settings.3d77c718.svg",
+    "static/media/call_white.svg": "/static/media/call_white.e286cb8e.svg",
+    "static/media/goszakupki.png": "/static/media/goszakupki.1ede7b26.png",
+    "static/media/gov-ru.png": "/static/media/gov-ru.512f3761.png",
+    "static/media/history_white.svg": "/static/media/history_white.54cfbc9d.svg",
+    "static/media/jk.png": "/static/media/jk.bf112fbc.png",
+    "static/media/logo.svg": "/static/media/logo.2221a82b.svg",
+    "static/media/manual_white.svg": "/static/media/manual_white.2f64ed3f.svg",
+    "static/media/message_white.svg": "/static/media/message_white.cf29189c.svg",
+    "static/media/newspaper_white.svg": "/static/media/newspaper_white.a8f502a6.svg",
+    "static/media/obse.png": "/static/media/obse.31ef97b2.png",
+    "static/media/phone.svg": "/static/media/phone.c6f39412.svg",
+    "static/media/search.svg": "/static/media/search.156dcd8f.svg",
+    "static/media/settings_white.svg": "/static/media/settings_white.16cf3f50.svg",
+    "static/media/undp.png": "/static/media/undp.7733f17b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/css/2.98167188.chunk.css",
+    "static/js/2.b5a8db14.chunk.js",
+    "static/css/main.61af3adb.chunk.css",
+    "static/js/main.2d4400f9.chunk.js"
+  ]
+}
