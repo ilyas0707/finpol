@@ -38,10 +38,10 @@ export const Footer = () => {
     return (
         <div className={styles.footer}>
             <div className={root.container}>
-                <div className={styles.img}>
+                {/* <div className={styles.img}>
                     <img src={ obse } alt="ОБСЕ"/>
                     <img src={ undp } alt=""/>
-                </div>
+                </div> */}
             </div>
             <div className={styles.main}>
                 <div className={root.container}>

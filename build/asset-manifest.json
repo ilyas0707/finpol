@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.61af3adb.chunk.css",
-    "main.js": "/static/js/main.2d4400f9.chunk.js",
+    "main.css": "/static/css/main.255c8690.chunk.css",
+    "main.js": "/static/js/main.17c096de.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
     "static/css/2.98167188.chunk.css": "/static/css/2.98167188.chunk.css",
-    "static/js/2.b5a8db14.chunk.js": "/static/js/2.b5a8db14.chunk.js",
+    "static/js/2.82a40b16.chunk.js": "/static/js/2.82a40b16.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.7e13a1ab0d301385ac2599cb5041173e.js": "/precache-manifest.7e13a1ab0d301385ac2599cb5041173e.js",
+    "precache-manifest.2b5df2501b7f03f1eeabfade5837fcf3.js": "/precache-manifest.2b5df2501b7f03f1eeabfade5837fcf3.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.b5a8db14.chunk.js.LICENSE.txt": "/static/js/2.b5a8db14.chunk.js.LICENSE.txt",
+    "static/js/2.82a40b16.chunk.js.LICENSE.txt": "/static/js/2.82a40b16.chunk.js.LICENSE.txt",
     "static/media/Number.module.css": "/static/media/settings.3d77c718.svg",
     "static/media/call_white.svg": "/static/media/call_white.e286cb8e.svg",
     "static/media/goszakupki.png": "/static/media/goszakupki.1ede7b26.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.09b85ec0.js",
     "static/css/2.98167188.chunk.css",
-    "static/js/2.b5a8db14.chunk.js",
-    "static/css/main.61af3adb.chunk.css",
-    "static/js/main.2d4400f9.chunk.js"
+    "static/js/2.82a40b16.chunk.js",
+    "static/css/main.255c8690.chunk.css",
+    "static/js/main.17c096de.chunk.js"
   ]
 }
